@@ -8,7 +8,7 @@ AdonisJS Boilerplate supports [LucidORM](https://lucid.adonisjs.com/docs/introdu
 
 - [Comfortable development (PostgreSQL)](#comfortable-development-postgresql)
 
---
+
 
 ## Comfortable development (PostgreSQL)
 
@@ -56,4 +56,4 @@ npm run dev
 
 ## Links
 
-- [Postman Collection]()
+- [Postman Collection](https://github.com/Tagada216/adonisjs-boilerplate/blob/main/postman/Adonis%20JS%20Boilerplate.postman_collection.json)

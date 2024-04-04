@@ -1,6 +1,6 @@
 # AdonisJS 6+ REST API boilerplate
---
-[![image](https://miro.medium.com/v2/resize:fit:1400/1*9fWIkINvrOfiQwQsmg9UJQ.png)](https://github.com/new?template_name=nestjs-boilerplate&template_owner=brocoders)
+
+[![image](https://miro.medium.com/v2/resize:fit:1400/1*9fWIkINvrOfiQwQsmg9UJQ.png)](https://github.com/new?template_name=adonisjs-boilerplate&template_owner=Tagada216)
 
 ## Description <!-- omit in toc -->
 
