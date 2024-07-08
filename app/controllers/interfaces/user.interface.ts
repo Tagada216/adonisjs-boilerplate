@@ -1,6 +1,6 @@
 import { DateTime } from 'luxon'
 
-export interface UserInterface<T> {
+export interface UserInterface {
   id: number
   fullName: string | null
   email: string
